@@ -26,6 +26,8 @@ Then execute the tool of your choice :)
 
 Tools are found in the `src` directory.
 
+**Important note:** only the files that are supported by Mutagen are supported, which excludes many mp3 files using old idte standards.
+
 ### Harmonize genres
 
 `harmonize_genre.py` runs an interactive command-line interface where the user is asked a directory and keywords, and can rename a list of genres in the resulting selection.
